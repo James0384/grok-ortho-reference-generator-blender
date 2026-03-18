@@ -18,7 +18,7 @@ GitHub: https://github.com/James0384/grok-ortho-reference-generator-blender
 
 ## Installation
 1. Download the ZIP or clone the repo
-2. Blender → Edit → Preferences → Add-ons → Install… → select the zip or `grok-ortho-reference-generator-blender.py`
+2. Blender → Edit → Preferences → Add-ons → Install… → select the zip or `__init__.py`
 3. Enable "Grok Ortho Generator"
 
 ## Usage
