@@ -29,6 +29,12 @@ GitHub: https://github.com/James0384/grok-ortho-reference-generator-blender
 
 References appear instantly in the scene.
 
+## Screenshots
+
+![Grok Optimizer Panel](screenshots/Screenshot%202026-03-18%20002147.png)
+![Generated Front Reference](screenshots/Screenshot%202026-03-18%20003117.png)
+![Front + Side References in Scene](screenshots/Screenshot%202026-03-18%20003714.png)
+
 ## Portfolio Context
 Professional 3D Production Artist (Star Spangled Adventures — 39 episodes shipped). This tool demonstrates real-time API integration, bpy scripting, and UI development for production pipelines. Built as a direct extension of my procedural and synthetic-data work.
 
